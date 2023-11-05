@@ -5,9 +5,9 @@ draft: false
 ---
 Hey there!
 
-This is the first post here. It is short and just to test how Hugo works and to discuss the motivation behind this website.
+This is the first post here. It is short and just to test how Hugo works, and to write about the motivation behind this website.
 
-Currently, alongside my regular job, I'm working on my pet project, which involves a wide range of new technologies I'm eager to learn about.
-So, I'll try to share the things I've learned here while dedicating time to my pet project.
+Currently, besides my regular job, I am working on my pet project which encompasses a wide range of new technologies I am interested in learning.
+So, I will try to share things I have learned here along with working on my pet project.
 
 I hope I won't abandon it.
